@@ -8,5 +8,5 @@ export default function Page() {
         Tu tienda minimalista de moda — descubre ropa, carteras, zapatos y accesorios.
       </p>
     </main>
-  )
+  );
 }
